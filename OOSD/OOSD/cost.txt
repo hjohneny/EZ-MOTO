@@ -1,0 +1,8 @@
+summer 4
+mall 4
+maybank 8
+giant 5 
+hepa 1
+airport 8
+mcdonalds 6
+vivacity 7
